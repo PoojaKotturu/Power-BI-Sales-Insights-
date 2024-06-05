@@ -8,7 +8,7 @@ This project provides insights into sales data using Power BI. It includes data 
 ## Project Links
 
 - [Project on NovyPro](https://project.novypro.com/NPz06V)
-- [Udemy Course](https://www.udemy.com/share/101YDm3@KYpngqJH0b0PesCotN1OqoezKbCVoD2uaK_RRBEaWHliNHojtOTZDoT5DZ2MlXXEEA==/)
+
 
 ## Table of Contents
 
