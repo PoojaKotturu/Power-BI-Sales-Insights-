@@ -98,55 +98,55 @@ This dashboard provides key metrics like Total Sales and Profit over different f
 
 This dashboard provides a month-by-month breakdown of sales, comparing current period sales to previous periods to identify trends and patterns.
 
-![Time Intelligence](file-ouxvJ7W7hoESQsEhyA59Jty5)
+![file-ouxvJ7W7hoESQsEhyA59Jty5](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164658.png)
 
 ### Ranking
 
 This dashboard ranks sales by different categories, such as products or regions, to identify top and bottom performers.
 
-![Ranking](file-WN2nQbymUMuHAhg7yeUZ60A2)
+![file-WN2nQbymUMuHAhg7yeUZ60A2](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164714.png)
 
 ### Scenario Sales
 
 This dashboard uses scenario analysis to project potential future sales based on different variables and assumptions.
 
-![Scenario Sales](file-D8KN1tqPivhVgeB5WYS7jLvu)
+![file-D8KN1tqPivhVgeB5WYS7jLvu](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164728.png)
 
 ### Top Clients
 
 This dashboard identifies the top clients by sales, providing insights into customer performance and profitability.
 
-![Top Clients](file-VruO7LnfnQa7A0HmWk7jjZ0N)
+![file-VruO7LnfnQa7A0HmWk7jjZ0N](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164744.png)
 
 ### Customer Classification
 
 This dashboard classifies customers based on their purchasing behavior and other metrics to tailor marketing and sales strategies.
 
-![Customer Classification](file-t1GjwL2EyNskbT9YSyJCrqcA)
+!(https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164815.png)
 
 ### Variables and Weekdays
 
 This dashboard compares sales performance on weekdays versus weekends to identify patterns and optimize operations.
 
-![Variables and Weekdays](file-HNeqXMXyLqie77ExH0EIqhrv)
+!(https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164840.png)
 
 ### Final Report
 
 The final report consolidates all key metrics and insights from the different dashboards into one comprehensive overview. It includes total sales by category, customer classification over the years, and total profit trends.
 
-![Final Report](file-Ty3ldde5ZOkbz44zeKpq07sP)
+!(https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164857.png)
 
 ### Navigation
 
 This navigation page includes buttons to easily access different parts of the report, making the user experience more intuitive and efficient.
 
-![Navigation](file-nKUVIAKC9AfY40yfs9rOJGPG)
+!(https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164925.png)
 
 ### Best and Worst Customer Sales Thresholds
 
 This dashboard shows the best and worst-performing customers based on sales thresholds. It allows for setting dynamic thresholds to analyze customer performance.
 
-![Best and Worst Customer Sales Thresholds](file-GhySbX5SqZ8KdZeofDddRyCb)
+![Screenshot 2024-06-05 165203.png](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20165203.png)
 
 ## Business Related Terms
 
