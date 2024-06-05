@@ -1,4 +1,5 @@
-# Power-BI-Sales-Insights-
+
+# Power BI Sales Insights
 
 ## Project Description
 
@@ -6,7 +7,8 @@ This project provides insights into sales data using Power BI. It includes data 
 
 ## Project Links
 
-- [Project on NovyPro]([https://project.novypro.com/NPz06V])(https://www.novypro.com/profile_projects/poojakotturu?Popup=memberProject&Data=1703893722937x204103939823324400)
+- [Project on NovyPro](https://project.novypro.com/NPz06V)
+- [Udemy Course](https://www.udemy.com/share/101YDm3@KYpngqJH0b0PesCotN1OqoezKbCVoD2uaK_RRBEaWHliNHojtOTZDoT5DZ2MlXXEEA==/)
 
 ## Table of Contents
 
@@ -28,6 +30,7 @@ This project provides insights into sales data using Power BI. It includes data 
   - [Variables and Weekdays](#variables-and-weekdays)
   - [Final Report](#final-report)
   - [Navigation](#navigation)
+  - [Best and Worst Customer Sales Thresholds](#best-and-worst-customer-sales-thresholds)
 - [Business Related Terms](#business-related-terms)
 - [Major Power BI Skills Learned and Applied](#major-power-bi-skills-learned-and-applied)
 - [Dashboard Highlights](#dashboard-highlights)
@@ -139,6 +142,12 @@ This navigation page includes buttons to easily access different parts of the re
 
 ![Navigation](file-nKUVIAKC9AfY40yfs9rOJGPG)
 
+### Best and Worst Customer Sales Thresholds
+
+This dashboard shows the best and worst-performing customers based on sales thresholds. It allows for setting dynamic thresholds to analyze customer performance.
+
+![Best and Worst Customer Sales Thresholds](file-GhySbX5SqZ8KdZeofDddRyCb)
+
 ## Business Related Terms
 
 - Gross Sales, Net sales, Net profit, Gross Margin
@@ -184,6 +193,7 @@ This navigation page includes buttons to easily access different parts of the re
 - **Variables and Weekdays**: Analyzing sales performance on weekdays versus weekends.
 - **Final Report**: Consolidated overview of key metrics and insights.
 - **Navigation**: Intuitive navigation for easy access to different parts of the report.
+- **Best and Worst Customer Sales Thresholds**: Analyzing customer performance based on dynamic sales thresholds.
 
 ## Conclusion
 
@@ -195,4 +205,4 @@ For any questions or feedback, please contact:
 
 - Pooja Kotturu
 - Email: [poojakotturu1999@gmail.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pooja-kotturu/)
+- LinkedIn: [Pooja Kotturu](https://www.linkedin.com/in/pooja-kotturu/)
