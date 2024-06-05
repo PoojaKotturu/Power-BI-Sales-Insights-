@@ -92,7 +92,7 @@ Throughout this project, the following skills were enhanced:
 
 This dashboard provides key metrics like Total Sales and Profit over different fiscal years. It allows stakeholders to quickly understand the overall performance.
 
-![Basic Measures](file-I4TdYOVK5FVf0prtWJ8GRELf)
+![Basic Measures](Screenshot 2024-06-05 164628.png)
 
 ### Time Intelligence
 
