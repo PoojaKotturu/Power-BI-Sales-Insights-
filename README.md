@@ -1,4 +1,3 @@
-
 # Power BI Sales Insights
 
 ## Project Description
@@ -8,7 +7,6 @@ This project provides insights into sales data using Power BI. It includes data 
 ## Project Links
 
 - [Project on NovyPro](https://project.novypro.com/NPz06V)
-
 
 ## Table of Contents
 
@@ -22,10 +20,13 @@ This project provides insights into sales data using Power BI. It includes data 
 - [Skills Enhanced](#skills-enhanced)
 - [Dashboards Overview](#dashboards-overview)
   - [Basic Measures](#basic-measures)
-  - [Time Intelligence](#time-intelligence)
+  - [Time Intelligence Part 1](#time-intelligence-part-1)
+  - [Time Intelligence Part 2](#time-intelligence-part-2)
+  - [Time Intelligence Part 3](#time-intelligence-part-3)
   - [Ranking](#ranking)
-  - [Scenario Sales](#scenario-sales)
+  - [Total Scenario Sales](#total-scenario-sales)
   - [Top Clients](#top-clients)
+  - [DAX or No DAX](#dax-or-no-dax)
   - [Customer Classification](#customer-classification)
   - [Variables and Weekdays](#variables-and-weekdays)
   - [Final Report](#final-report)
@@ -92,61 +93,79 @@ Throughout this project, the following skills were enhanced:
 
 This dashboard provides key metrics like Total Sales and Profit over different fiscal years. It allows stakeholders to quickly understand the overall performance.
 
-![Screenshot 2024-06-05 164628.png](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164628.png)
+![Basic Measures](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Basic%20Measures.png)
 
-### Time Intelligence
+### Time Intelligence Part 1
 
 This dashboard provides a month-by-month breakdown of sales, comparing current period sales to previous periods to identify trends and patterns.
 
-![file-ouxvJ7W7hoESQsEhyA59Jty5](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164658.png)
+![Time Intelligence](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Time%20Intelligence.png)
+
+### Time Intelligence Part 2
+
+This dashboard continues the month-by-month breakdown of sales, adding cumulative sales and comparisons with previous periods.
+
+![Time Intelligence Part 2](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Time%20Intelligence%20Part%202.png)
+
+### Time Intelligence Part 3
+
+This dashboard further explores time-based sales data, showing rolling 30-day sales and daily sales performance.
+
+![Time Intelligence Part 3](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Time%20Intelligence%20Part%203.png)
 
 ### Ranking
 
 This dashboard ranks sales by different categories, such as products or regions, to identify top and bottom performers.
 
-![file-WN2nQbymUMuHAhg7yeUZ60A2](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164714.png)
+![Ranking](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Ranking.png)
 
-### Scenario Sales
+### Total Scenario Sales
 
 This dashboard uses scenario analysis to project potential future sales based on different variables and assumptions.
 
-![file-D8KN1tqPivhVgeB5WYS7jLvu](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164728.png)
+![Total Scenario Sales](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Total%20Scenario%20Sales.png)
 
 ### Top Clients
 
 This dashboard identifies the top clients by sales, providing insights into customer performance and profitability.
 
-![file-VruO7LnfnQa7A0HmWk7jjZ0N](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164744.png)
+![Top 10 Clients](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Top%2010%20Clients.png)
+
+### DAX or No DAX
+
+This dashboard demonstrates the use of DAX calculations versus no DAX to show different ways of achieving the same results in Power BI.
+
+![DAX or No DAX](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/DAX%20or%20No%20DAX.png)
 
 ### Customer Classification
 
 This dashboard classifies customers based on their purchasing behavior and other metrics to tailor marketing and sales strategies.
 
-!(https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164815.png)
+![Customer Classification](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Customer%20Classification.png)
 
 ### Variables and Weekdays
 
 This dashboard compares sales performance on weekdays versus weekends to identify patterns and optimize operations.
 
-!(https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164840.png)
+![Variables and Weekdays](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Variables%20and%20Weekdays.png)
 
 ### Final Report
 
 The final report consolidates all key metrics and insights from the different dashboards into one comprehensive overview. It includes total sales by category, customer classification over the years, and total profit trends.
 
-!(https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164857.png)
+![Final Dashboard](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Final%20Dashboard.png)
 
 ### Navigation
 
 This navigation page includes buttons to easily access different parts of the report, making the user experience more intuitive and efficient.
 
-!(https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20164925.png)
+![Navigation Buttons](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Navigation%20Buttons.png)
 
 ### Best and Worst Customer Sales Thresholds
 
 This dashboard shows the best and worst-performing customers based on sales thresholds. It allows for setting dynamic thresholds to analyze customer performance.
 
-![Screenshot 2024-06-05 165203.png](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Screenshot%202024-06-05%20165203.png)
+![Best and Worst Customer Sales Threshold](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Best%20and%20Worst%20Customer%20Sales%20Threshold.png)
 
 ## Business Related Terms
 
@@ -185,10 +204,13 @@ This dashboard shows the best and worst-performing customers based on sales thre
 ## Dashboard Highlights
 
 - **Basic Measures**: Key metrics overview such as Total Sales and Profit.
-- **Time Intelligence**: Month-by-month sales breakdown and comparison with previous periods.
+- **Time Intelligence Part 1**: Month-by-month sales breakdown and comparison with previous periods.
+- **Time Intelligence Part 2**: Cumulative sales and comparisons with previous periods.
+- **Time Intelligence Part 3**: Rolling 30-day sales and daily sales performance.
 - **Ranking**: Identifying top and bottom performers by various categories.
-- **Scenario Sales**: Projecting potential future sales based on different scenarios.
+- **Total Scenario Sales**: Projecting potential future sales based on different scenarios.
 - **Top Clients**: Insights into the top-performing clients.
+- **DAX or No DAX**: Demonstrating different ways of achieving the same results with or without DAX.
 - **Customer Classification**: Classifying customers based on purchasing behavior.
 - **Variables and Weekdays**: Analyzing sales performance on weekdays versus weekends.
 - **Final Report**: Consolidated overview of key metrics and insights.
