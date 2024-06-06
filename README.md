@@ -32,6 +32,8 @@ This project provides insights into sales data using Power BI. It includes data 
   - [Final Report](#final-report)
   - [Navigation](#navigation)
   - [Best and Worst Customer Sales Thresholds](#best-and-worst-customer-sales-thresholds)
+  - [Data Model](#data-model)
+    
 - [Business Related Terms](#business-related-terms)
 - [Major Power BI Skills Learned and Applied](#major-power-bi-skills-learned-and-applied)
 - [Dashboard Highlights](#dashboard-highlights)
@@ -99,43 +101,43 @@ This dashboard provides key metrics like Total Sales and Profit over different f
 
 This dashboard provides a month-by-month breakdown of sales, comparing current period sales to previous periods to identify trends and patterns.
 
-![Time Intelligence](Time Intelligence 1)
+![Time Intelligence](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Time%20Intelligence%201)
 
 ### Time Intelligence Part 2
 
 This dashboard continues the month-by-month breakdown of sales, adding cumulative sales and comparisons with previous periods.
 
-![Time Intelligence Part 2](Time Intelligence Part 2)
+![Time Intelligence Part 2](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Time%20Intelligence%20Part%202)
 
 ### Time Intelligence Part 3
 
 This dashboard further explores time-based sales data, showing rolling 30-day sales and daily sales performance.
 
-![Time Intelligence Part 3](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Time%20Intelligence%20Part%203.png)
+![Time Intelligence Part 3](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Time%20Intelligence%20Part%203)
 
 ### Ranking
 
 This dashboard ranks sales by different categories, such as products or regions, to identify top and bottom performers.
 
-![Ranking](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Ranking.png)
+![Ranking](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Ranking)
 
 ### Total Scenario Sales
 
 This dashboard uses scenario analysis to project potential future sales based on different variables and assumptions.
 
-![Total Scenario Sales](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Total%20Scenario%20Sales.png)
+![Total Scenario Sales](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Total%20Scenario%20Sales)
 
 ### Top Clients
 
 This dashboard identifies the top clients by sales, providing insights into customer performance and profitability.
 
-![Top 10 Clients](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Top%2010%20Clients.png)
+![Top 10 Clients](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Top%2010%20Clients)
 
 ### DAX or No DAX
 
 This dashboard demonstrates the use of DAX calculations versus no DAX to show different ways of achieving the same results in Power BI.
 
-![DAX or No DAX](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/DAX%20or%20No%20DAX.png)
+![DAX or No DAX](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/DAX%20or%20No%20DAX)
 
 ### Customer Classification
 
@@ -147,25 +149,30 @@ This dashboard classifies customers based on their purchasing behavior and other
 
 This dashboard compares sales performance on weekdays versus weekends to identify patterns and optimize operations.
 
-![Variables and Weekdays](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Variables%20and%20Weekdays.png)
+![Variables and Weekdays](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Variables%20and%20Weekdays)
 
 ### Final Report
 
 The final report consolidates all key metrics and insights from the different dashboards into one comprehensive overview. It includes total sales by category, customer classification over the years, and total profit trends.
 
-![Final Dashboard](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Final%20Dashboard.png)
+![Final Dashboard](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Final%20Report)
 
 ### Navigation
 
 This navigation page includes buttons to easily access different parts of the report, making the user experience more intuitive and efficient.
 
-![Navigation Buttons](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Navigation%20Buttons.png)
+![Navigation Buttons](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Navigation%20Buttons)
 
 ### Best and Worst Customer Sales Thresholds
 
 This dashboard shows the best and worst-performing customers based on sales thresholds. It allows for setting dynamic thresholds to analyze customer performance.
 
-![Best and Worst Customer Sales Threshold](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Best%20and%20Worst%20Customer%20Sales%20Threshold.png)
+![Best and Worst Customer Sales Threshold](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Best%20and%20Worst%20Customers%20Sales%20Threshold)
+
+## Data Model
+
+![Data Model](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Data%20Model.png)
+
 
 ## Business Related Terms
 
