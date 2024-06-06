@@ -93,19 +93,19 @@ Throughout this project, the following skills were enhanced:
 
 This dashboard provides key metrics like Total Sales and Profit over different fiscal years. It allows stakeholders to quickly understand the overall performance.
 
-![Basic Measures](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Basic%20Measures.png)
+![Basic Measures](Basic Measures)
 
 ### Time Intelligence Part 1
 
 This dashboard provides a month-by-month breakdown of sales, comparing current period sales to previous periods to identify trends and patterns.
 
-![Time Intelligence](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Time%20Intelligence.png)
+![Time Intelligence](Time Intelligence 1)
 
 ### Time Intelligence Part 2
 
 This dashboard continues the month-by-month breakdown of sales, adding cumulative sales and comparisons with previous periods.
 
-![Time Intelligence Part 2](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Time%20Intelligence%20Part%202.png)
+![Time Intelligence Part 2](Time Intelligence Part 2)
 
 ### Time Intelligence Part 3
 
