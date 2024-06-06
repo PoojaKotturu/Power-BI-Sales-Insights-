@@ -93,7 +93,7 @@ Throughout this project, the following skills were enhanced:
 
 This dashboard provides key metrics like Total Sales and Profit over different fiscal years. It allows stakeholders to quickly understand the overall performance.
 
-![Basic Measures](Basic Measures)
+![Basic Measures](https://github.com/PoojaKotturu/Power-BI-Sales-Insights-/blob/main/Basic%20Measures)
 
 ### Time Intelligence Part 1
 
